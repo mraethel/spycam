@@ -9,7 +9,7 @@ However, the result should mainly focus on human visitors, thus wildlife-cams ar
 
 - low cost
 - low maintainance
-- long durability
+- long durability (outdoor)
 
 ## Hardware
 
